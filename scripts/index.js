@@ -5,8 +5,8 @@
         console.log("first condition: preference_confirmation: on, restaurant: indian moderate east")
         console.log("second condition: preference_confirmation: off, restaurant: chinese expensive east")
 
-        var one_link = "https://restaurant.recommender.mathangeurtsen.nl:4443"
-        var two_link = "https://restaurant.recommender.mathangeurtsen.nl:4444"
+        var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
+        var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
 
         var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
         var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
@@ -15,8 +15,8 @@
         console.log("first condition: preference_confirmation: off, restaurant: chinese expensive east")
         console.log("second condition: preference_confirmation: on, restaurant: indian moderate east")
 
-        var one_link = "https://restaurant.recommender.mathangeurtsen.nl:4444"
-        var two_link = "https://restaurant.recommender.mathangeurtsen.nl:4443"
+        var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
+        var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
 
         var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
         var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
@@ -30,8 +30,8 @@
         console.log("first condition: preference_confirmation: off, restaurant: indian moderate east")
         console.log("second condition: preference_confirmation: on, restaurant: chinese expensive east")
 
-        var one_link = "https://restaurant.recommender.mathangeurtsen.nl:4444"
-        var two_link = "https://restaurant.recommender.mathangeurtsen.nl:4443"
+        var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
+        var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
 
         var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
         var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
@@ -41,8 +41,8 @@
         console.log("first condition: preference_confirmation: on, restaurant: chinese expensive east")
         console.log("second condition: preference_confirmation: off, restaurant: indian moderate east")
 
-        var one_link = "https://restaurant.recommender.mathangeurtsen.nl:4443"
-        var two_link = "https://restaurant.recommender.mathangeurtsen.nl:4444"
+        var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
+        var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
 
         var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
         var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
