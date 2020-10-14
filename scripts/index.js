@@ -60,6 +60,7 @@ var a1 = document.createElement('a');
 var linkText = document.createTextNode("first restaurant recommendation system");
 a1.appendChild(linkText);
 a1.title = "This is the link to the first restaurant recommendation system";
+a1.setAttribute('target', '_blank');
 a1.href = one_link;
 
 document.body.appendChild(para)
@@ -80,5 +81,6 @@ var a2 = document.createElement('a');
 var linkText = document.createTextNode("second restaurant recommendation system");
 a2.appendChild(linkText);
 a2.title = "This is the link to the second restaurant recommendation system";
+a2.setAttribute('target', '_blank');
 a2.href = two_link;
 document.body.appendChild(a2);
