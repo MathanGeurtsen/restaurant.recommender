@@ -8,8 +8,8 @@
         var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
         var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
 
-        var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
-        var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
+        var one_intro = "In this first test, please search for a restaurant in the east part of town with indian food, that is moderately priced. "
+        var two_intro = "In the second test, please search for a restaurant in the east part of town with chinese food, that is expensively priced. "
     } else {
         // first condition has chinese restaurant
         console.log("first condition: preference_confirmation: off, restaurant: chinese expensive east")
@@ -18,8 +18,8 @@
         var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
         var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
 
-        var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
-        var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
+        var one_intro = "In this first test, please search for a restaurant in the east part of town with chinese food, that is expensively priced. "
+        var two_intro = "In the second test, please search for a restaurant in the east part of town with indian food, that is moderately priced. "
 
     }
 
@@ -33,8 +33,8 @@
         var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
         var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
 
-        var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
-        var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
+        var one_intro = "In this first test, please search for a restaurant in the east part of town with indian food, that is moderately priced. "
+        var two_intro = "In the second test, please search for a restaurant in the east part of town with chinese food, that is expensively priced. "
 
     } else {
         // first condition has chinese restaurant
@@ -44,8 +44,8 @@
         var one_link = "http://restaurant.recommender.mathangeurtsen.nl:4443"
         var two_link = "http://restaurant.recommender.mathangeurtsen.nl:4444"
 
-        var one_intro = "In this first test, you are instructed to search for a restaurant in the east part of town with chinese food, that is expensively priced. "
-        var two_intro = "In the second test, you are instructed to search for a restaurant in the east part of town with indian food, that is moderately priced. "
+        var one_intro = "In this first test, please search for a restaurant in the east part of town with chinese food, that is expensively priced. "
+        var two_intro = "In the second test, please search for a restaurant in the east part of town with indian food, that is moderately priced. "
     }
 }
 
